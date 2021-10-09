@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    
+  }
+  img{
+    height : 200px ;
+    width : 200px ;
+    border-radius : 50%;
+  }
+  
+  body{
+      background-image: linear-gradient(to right,Orchid , Cyan);
+    
+  }
+  
+  #H1{
+    
+    text-shadow: 2px 2px black;
+
+    font-size: 40px;
+
+    font-family: fantasy;
+    
+  }
+
+  p{
+
+    font-family: fantasy;
+
+  }
